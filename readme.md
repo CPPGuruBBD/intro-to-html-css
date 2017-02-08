@@ -106,10 +106,10 @@
 
 10. **Application development**
 
-   [start](start/043-icon-fonts) [complete](complete/043-icon-fonts) **icon fonts** and generating them
+    [start](start/043-icon-fonts) [complete](complete/043-icon-fonts) **icon fonts** and generating them
 
-   [start](start/044-simple-devtools) [complete](complete/044-simple-devtools) **simple devtools** using chrome dev tools
+    [start](start/044-simple-devtools) [complete](complete/044-simple-devtools) **simple devtools** using chrome dev tools
 
-   [start](start/045-html5-boilerplate) [complete](complete/045-html5-boilerplate) **static page boilerplate** with html5 boilerplate
+    [start](start/045-html5-boilerplate) [complete](complete/045-html5-boilerplate) **static page boilerplate** with html5 boilerplate
 
-   [start](start/046-twitter-bootstrap) [complete](complete/046-twitter-bootstrap) **styling framework** with twitter bootstrap
+    [start](start/046-twitter-bootstrap) [complete](complete/046-twitter-bootstrap) **styling framework** with twitter bootstrap
