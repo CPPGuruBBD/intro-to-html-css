@@ -1,9 +1,9 @@
 1. **Basic tags**
 
-    [001](start/001-text) **text** tags such as `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `code`, `blockquote`, `span`
-    **text formatting and lines** with tags `em`, `hr`, `br`, `strong`
-    **image** tag `img` with attributes `height`, `width`, `title`, `alt` with relative/absolute url
-    **hyperlink** tag `a` with attributes `href`, `name` with relative/absolute hyperlinks
+    [start](start/001-text) [complete](complete/001-text) **text** tags such as `h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `code`, `blockquote`, `span`
+    [start](start/001-text) [complete](complete/001-text) **text formatting and lines** with tags `em`, `hr`, `br`, `strong`
+    [start](start/001-text) [complete](complete/001-text) **image** tag `img` with attributes `height`, `width`, `title`, `alt` with relative/absolute url
+    [start](start/001-text) [complete](complete/001-text) **hyperlink** tag `a` with attributes `href`, `name` with relative/absolute hyperlinks
 
 2. **Data handling**
 
