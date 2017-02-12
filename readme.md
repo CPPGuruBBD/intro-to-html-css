@@ -35,7 +35,7 @@
 
     [start](start/014-css-selectors) [complete](complete/014-css-selectors) **css selectors** such as `* {}`, `E {}`, `E F {}`, `E > F {}`
 
-    [start](start/015-css-id-class) [complete](complete/015-css-id-class)) **css for id & class**
+    [start](start/015-css-id-class) [complete](complete/015-css-id-class) **css for id & class**
 
     [start](start/016-css-box-model) [complete](complete/016-css-box-model) **css box model**
 
